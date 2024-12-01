@@ -6,6 +6,9 @@ This project demonstrates a **Health Record Blockchain** implemented in C++. It 
 The project emphasizes modern C++ features and OOP principles, and it can be extended for GUI-based applications, such as a Qt framework GUI, replacing high-level languages like Python or C#.
 
 
+![BlockChain](https://github.com/AbyssWatcher-17/Health_Record_BlockChain/blob/5afd52d527944c915f76991b1d75b7a27f4a7a48/BlockChain.png)
+
+
 Why C++?
 While high-level languages like Python and C# are popular for such projects, C++ offers:
 
